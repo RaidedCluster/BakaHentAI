@@ -1,0 +1,45 @@
+[06:25:35] config loaded
+[06:25:43] JBB root: /workspace/jbb/JBB Translations
+[06:28:13] config loaded
+[06:28:13] JBB root: /workspace/jbb/JBB Translations
+[06:31:31] config loaded
+[06:31:35] JBB root: /workspace/jbb/JBB Translations
+[06:33:51] config loaded
+[06:33:53] JBB root: /workspace/jbb/JBB Translations
+[06:34:37] model loaded | trainable 40,370,176
+[06:34:37] encoder + scoring ready | sample: 𛀸𛄝𛂋𛁣𛂡
+[06:35:23] data built {'translit': 3000, 'henta_qa': 14880, 'normal_jp': 4800, 'mixed': 4320, 'en_replay': 6000, 'total': 32554}
+[08:18:55] trained 102.2 min | loss 0.8999
+[08:18:55] gen helpers ready
+[08:19:34] translit test sentences: 300
+[08:56:24] translit eval done
+[08:56:34] judge: ANSWER
+[08:56:34] 690 prompts across 12 languages
+[09:02:08] judge: ANSWER
+[09:03:06] translit test sentences: 300
+[09:07:08] translit test sentences: 300
+[09:43:56] translit eval done
+[09:43:58] judge: ANSWER
+[09:43:59] 690 prompts across 12 languages
+[09:43:59] resuming generations (25 done)
+[10:28:31] translit outputs saved
+[10:30:39] judge: ANSWER
+[10:30:42] 690 prompts across 12 languages
+[10:30:43] resuming generations (75 done)
+[11:41:41] generations saved (690)
+[12:27:05] judging done (690)
+[12:27:06] figures + tables saved to /workspace/artifacts
+[12:30:03] judge: ANSWER
+[12:31:14] resuming judging (213 done)
+[12:51:29] judging done (690)
+[12:51:30] figures + tables saved to /workspace/artifacts
+[12:57:59] judge: PARSE_ERROR
+[12:57:59] resuming judging (268 done)
+[13:08:29] resuming generations (690 done)
+[13:08:29] generations saved (690)
+[13:08:35] resuming judging (268 done)
+[13:39:29] judging done (690)
+[13:39:55] figures + tables saved to /workspace/artifacts
+[13:46:32] resuming judging (355 done)
+[14:36:31] judging done (690)
+[14:36:32] figures + tables saved to /workspace/artifacts
